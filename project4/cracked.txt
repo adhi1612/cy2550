@@ -1,3 +1,6 @@
+epicgnome:smokey
+bigghappy:banana
+infiguard:guitar
 superti:diablo
 baseinstant:pepper
 cacklynet:buster
